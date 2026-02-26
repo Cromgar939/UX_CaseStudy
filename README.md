@@ -35,7 +35,9 @@ Descripción:
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+
+<img width="1024" height="1024" alt="LogoDIU" src="https://github.com/user-attachments/assets/f45ac993-bbb3-400c-a07c-c5d2cc5363e9" />
+
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  [Carlos Romero García](https://github.com/Cromgar939)   :octocat:     
