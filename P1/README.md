@@ -73,7 +73,7 @@ Se han seleccionado estas dos experiencias porque representan los escenarios má
 - Reserva Grupal (Evaristo González): Esta experiencia es muy común entre el público joven y universitario. Refleja la frustración típica cuando un usuario, tras entusiasmarse con la estética de un local, encuentra problemas como el límite de personas en la reserva (máximo 6 personas). Esto suele derivar en la pérdida de clientes.
    - [User journey map: Reserva Restaurante](UserJourneyMapPersona1.jpg)
 
-- Pedido a Domicilio (Alejandra Ortega): Representa el caso habitual de un perfil familiar con poco tiempo. La duda sobre el precio exacto de cada plato o el desconocimiento del tiempo de preparación y entrega generan inseguridad y ralentizan la toma de decisiones.
+- Pedido Online (Alejandra Ortega): Representa el caso habitual de un perfil familiar con poco tiempo. La duda sobre el precio exacto de cada plato o el desconocimiento del tiempo de preparación genera inseguridad y ralentiza la toma de decisiones.
    - [User journey map: Pedido a domicilio](UserJourneyMapPersona2.jpg)
   
 # 1.e Usability Review
@@ -83,11 +83,16 @@ URL: https://sibuyaurbansushibar.com/restaurante-japones-granada/
 
 Valoración: 89/100 -> Good
 
-Puntos fuertes:
-Puntos debiles:
+Puntos fuertes: el diseño de las páginas tienen una buena combinación de colores de forma que las letras claras destacan sobre el fondo oscuro. Los apartados importantes están a la vista y se usan iconos reconocibles. Las instrucciones para realizar reserva y pedidos son claras y concisas. 
 
-# 1.f Resumen de la valoración práctica
+Puntos débiles: el manejo de errores es algo pobre. El menú lateral está un poco oculto. La función de búsqueda de la carta puede mejorarse mucho.
 
+# 1.f Briefing
+El sitio web de Sibuya está diseñado de forma que cualquier persona sea capaz de utilizarlo. Podemos destacar el buen uso de los colores, que le da identidad a la página y destaca las posibles opciones del usuario. Su página principal está organizada de forma que al principio de ella aparecen las distintas opciones con las que puede interactuar el usuario y conforme bajas van apareciendo distintas imágenes que muestran lo que te encuentras dentro del restaurante.
 
+Las instrucciones son claras y concisas, algunas acompañadas de imágenes, de forma que el usuario no se pierda a la hora de hacer un pedido o una reserva.
 
+El principal problema que podemos apreciar es la carta. Los colores cambian por completo, pasamos de una página oscura a una clara, las categorías no siguen ningún criterio de ordenación y su función de búsqueda es bastante pobre. Tenemos que centrarnos en estos aspectos para poder crear nuestra interfaz de forma que nuestra carta sea más amigable con el cliente.
 
+# 1.g Valoración de la práctica
+La práctica nos ha gustado. Al principio fue complicado pensar en la idea y hacer el User Research Plan, pero el resto de la práctica fue sencilla. Fue una tarea entretenida realizar el Competitive Analisis y el User Research con Sibuya y tener una idea de cómo vamos a enfocar nuestra página. También disfrutamos creando a las personas y sus Journey Maps inventando un escenario e ir siguiendo sus mismos pasos para ver cómo reaccionarían.
