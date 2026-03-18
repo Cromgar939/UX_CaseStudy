@@ -68,6 +68,13 @@ Persona 2: Alejandra Ortega. Una madre con poco manejo digital y su  prioridad e
 - [Persona 2](Persona2.png)
 
 # 1.d User Journey Map
+Se han seleccionado estas dos experiencias porque representan los escenarios más habituales en los restaurantes y el servicio de pedidos online.
+
+- Reserva Grupal (Evaristo González): Esta experiencia es muy común entre el público joven y universitario. Refleja la frustración típica cuando un usuario, tras entusiasmarse con la estética de un local, encuentra problemas como el límite de personas en la reserva (máximo 6 personas). Esto suele derivar en la pérdida de clientes.
+- [User journey map: Reserva Restaurante](User Journey Map Persona1.jpg)
+
+Pedido a Domicilio (Alejandra Ortega): Representa el caso habitual de un perfil familiar con poco tiempo. La duda sobre el precio exacto de cada plato o el desconocimiento del tiempo de preparación y entrega generan inseguridad y ralentizan la toma de decisiones.
+- [User journey map: Pedido a domicilio](User Journey Map Persona2.jpg)
 
 
 
