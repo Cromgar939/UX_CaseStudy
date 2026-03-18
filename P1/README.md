@@ -7,5 +7,56 @@
 - Revisión de Usabilidad 
 
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Incluya aquí simpre una valoración final del equipo sobre la propia realización de la práctica
+# 1.a User Reseach Plan
+## Briefing
+Nuestro proyecto se centra en un restaurante de temática japonesa inspirado en el anime Inazuma Eleven que utiliza un sistema de servicio mediante tubos neumáticos. Dentro del restaurante incluiremos decoración como las equipaciones de la serie y los platos de la carta tendrán nombres basados en las técnicas de los personajes. Aunque el equipo no cuenta con experiencia previa en la gestión de hostelería de alta tecnología, estamos familiarizados con la cultura del anime y el coleccionismo, lo que nos permite tener una perspectiva de fan.
+
+El objetivo principal de la investigación es, además de validar la usabilidad de la interfaz que utiliza lenguaje técnico de fútbol, asegurar que el sistema de pedido y entrega por tubos neumáticos sea comprendido intuitivamente por el cliente. Buscamos maximizar las reservas de mesas y la venta de platos especiales de manera visual que impacte tanto a los seguidores de la serie como a un público joven interesado.
+
+## Antecedentes y objetivos
+Estamos investigando la página web del restaurante Sibuya para poder encontrar sus virtudes y defectos para basarnos en el diseño de nuestra página.
+
+Objetivos:
+- Los distintos apartados (carta, reserva, pedidos) deben de ser fácilmente reconocibles
+- Permitir pedir un plato desde la carta
+- Cada usuario debe acceder a la pestaña deseada en menos de 5 segundos tras acceder a la página inicial.
+
+Como diseñadores nunca hemos trabajado en algo parecido y como observadores hemos oído a varias personas quejarse sobre cómo funcionan algunas de estas páginas.
+
+## Metodología
+
+Cualitativa:
+- Experiencia del usuario con pedidos online
+- Opiniones sobre los pedidos online
+- Platos preferidos del menú
+-  Experiencias del usuario con los tubos
+   
+Cuantitativa:
+- Número de pedidos online realizados al mes
+- Dinero gastado en pedidos
+
+## Perfil de los participantes
+- Edad: entre 18 y 60 años
+-  Competencias: Familiarización básica con compras en Internet
+
+## Guión y tareas
+- Consultar la carta
+- Escanear QR mesa
+- Realizar una reserva
+- Pedir un producto de la carta
+- Ver el estado del pedido
+- Consultar el horario del restaurante
+
+# 1.b Competitive Analysis
+[Tabla Competitive Analysis](P1/CompetitorAnalysis.png)
+
+Hemos hecho el competitive analysis de nuestro proyecto con Sibuya
+
+- Inazuma Ramen: Se caracteriza por un diseño visual simple pero llamativo y una arquitectura de información clara y estructurada. Destaca por ofrecer información de manera concisa y un flujo de usuario guiado, contando con ayuda contextual presente para asistir al usuario durante la navegación.
+
+- Sibuya: Presenta un enfoque profesional y equilibrado. Al igual que nuestra propuesta, mantiene una arquitectura estructurada y menús bien clasificados. Destaca por tener la información bien agrupada y un flujo de usuario intuitivo y claro, apoyándose en canales externos como blog y redes sociales para el soporte
+  
+Al comparar ambos proyectos, la valoración de Inazuma Ramen es muy positiva en cuanto a experiencia de usuario. Mientras Sibuya ofrece una experiencia tradicional, nuestro caso se justifica por un flujo guiado y una información concisa que reduce la carga mental del cliente. Sin embargo, también hay puntos que mejorar: nuestro proyecto debe mejorar la adaptabilidad móvil comparado con Sibuya. Además, ambos casosno existen la accesibilidad (WCAG) para personas discapacitadas. Esto supone una oportunidad para que Inazuma Ramen destaque.
+
+# 1.c Personas
+
