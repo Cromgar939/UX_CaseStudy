@@ -62,19 +62,19 @@ Al comparar ambos proyectos, la valoración de Inazuma Ramen es muy positiva en 
 
 Persona 1: Evaristo González. Es un joven que maneja a la perfección internet y fan del anime que busca una experiencia orientada en sus serires favoritas para compartir con amigos.
 
-- [Persona 1](Persona1.png)
+   - [Persona 1](Persona1.png)
 
 Persona 2: Alejandra Ortega. Una madre con poco manejo digital y su  prioridad es la eficiencia y la claridad para que todo salga correctamente.
-- [Persona 2](Persona2.png)
+   - [Persona 2](Persona2.png)
 
 # 1.d User Journey Map
 Se han seleccionado estas dos experiencias porque representan los escenarios más habituales en los restaurantes y el servicio de pedidos online.
 
 - Reserva Grupal (Evaristo González): Esta experiencia es muy común entre el público joven y universitario. Refleja la frustración típica cuando un usuario, tras entusiasmarse con la estética de un local, encuentra problemas como el límite de personas en la reserva (máximo 6 personas). Esto suele derivar en la pérdida de clientes.
-- [User journey map: Reserva Restaurante](UserJourneyMapPersona1.jpg)
+   - [User journey map: Reserva Restaurante](UserJourneyMapPersona1.jpg)
 
-Pedido a Domicilio (Alejandra Ortega): Representa el caso habitual de un perfil familiar con poco tiempo. La duda sobre el precio exacto de cada plato o el desconocimiento del tiempo de preparación y entrega generan inseguridad y ralentizan la toma de decisiones.
-- [User journey map: Pedido a domicilio](UserJourneyMapPersona2.jpg)
+- Pedido a Domicilio (Alejandra Ortega): Representa el caso habitual de un perfil familiar con poco tiempo. La duda sobre el precio exacto de cada plato o el desconocimiento del tiempo de preparación y entrega generan inseguridad y ralentizan la toma de decisiones.
+   - [User journey map: Pedido a domicilio](UserJourneyMapPersona2.jpg)
   
 # 1.e Usability Review
 [Usability review](Usability-review.pdf)
