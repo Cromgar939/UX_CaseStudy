@@ -75,6 +75,10 @@ Se han seleccionado estas dos experiencias porque representan los escenarios má
 
 Pedido a Domicilio (Alejandra Ortega): Representa el caso habitual de un perfil familiar con poco tiempo. La duda sobre el precio exacto de cada plato o el desconocimiento del tiempo de preparación y entrega generan inseguridad y ralentizan la toma de decisiones.
 - [User journey map: Pedido a domicilio](UserJourneyMapPersona2.jpg)
+  
+# 1.e Usability Review
+# 1.f Resumen de la valoración práctica
+
 
 
 
