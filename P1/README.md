@@ -60,3 +60,14 @@ Al comparar ambos proyectos, la valoración de Inazuma Ramen es muy positiva en 
 
 # 1.c Personas
 
+Persona 1: Evaristo González. Es un joven que maneja a la perfección internet y fan del anime que busca una experiencia orientada en sus serires favoritas para compartir con amigos.
+
+- [Persona 1](Persona1.png)
+
+Persona 2: Alejandra Ortega. Una madre con poco manejo digital y su  prioridad es la eficiencia y la claridad para que todo salga correctamente.
+- [Persona 2](Persona2.png)
+
+# 1.d User Journey Map
+
+
+
