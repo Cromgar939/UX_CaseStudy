@@ -56,7 +56,7 @@ Hemos hecho el competitive analysis de nuestro proyecto con Sibuya
 
 - Sibuya: Presenta un enfoque profesional y equilibrado. Al igual que nuestra propuesta, mantiene una arquitectura estructurada y menús bien clasificados. Destaca por tener la información bien agrupada y un flujo de usuario intuitivo y claro, apoyándose en canales externos como blog y redes sociales para el soporte
   
-Al comparar ambos proyectos, la valoración de Inazuma Ramen es muy positiva en cuanto a experiencia de usuario. Mientras Sibuya ofrece una experiencia tradicional, nuestro caso se justifica por un flujo guiado y una información concisa que reduce la carga mental del cliente. Sin embargo, también hay puntos que mejorar: nuestro proyecto debe mejorar la adaptabilidad móvil comparado con Sibuya. Además, ambos casosno existen la accesibilidad (WCAG) para personas discapacitadas. Esto supone una oportunidad para que Inazuma Ramen destaque.
+Al comparar ambos proyectos, la valoración de Inazuma Ramen es muy positiva en cuanto a experiencia de usuario. Mientras Sibuya ofrece una experiencia tradicional, nuestro caso se justifica por un flujo guiado y una información concisa que reduce la carga mental del cliente. Sin embargo, también hay puntos que mejorar: nuestro proyecto debe mejorar la adaptabilidad móvil. Además, para ambos casos no existen la accesibilidad (WCAG) para personas discapacitadas por lo que supone una oportunidad para que Inazuma Ramen destaque.
 
 # 1.c Personas
 
@@ -77,6 +77,15 @@ Pedido a Domicilio (Alejandra Ortega): Representa el caso habitual de un perfil 
 - [User journey map: Pedido a domicilio](UserJourneyMapPersona2.jpg)
   
 # 1.e Usability Review
+[Usability review](Usability-review.pdf)
+
+URL: https://sibuyaurbansushibar.com/restaurante-japones-granada/
+
+Valoración: 89/100 -> Good
+
+Puntos fuertes:
+Puntos debiles:
+
 # 1.f Resumen de la valoración práctica
 
 
