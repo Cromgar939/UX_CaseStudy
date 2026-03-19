@@ -17,22 +17,11 @@ Actualizado: 14/01/2026
 ## Paso 0 My UX-Case Study
 ![Método UX](img/caseStudy.png) 
 -----
-
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
-
-
->>> Hay que Publicar de forma incremental "my Case Study" en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
-
 Grupo: DIU1.Los_visionarios.  Curso: 2025/26 
 
-Nombre del Proyecto: 
+Nombre del Proyecto: Inazuma Ramen
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
-
-Descripción: 
-
->>> Describa la idea de su producto en la práctica 2 
+Descripción: Restaurante de comida japonesa inspirado en el anime Inazuma Eleven
 
 Logotipo: 
 
@@ -43,10 +32,6 @@ Logotipo:
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  [Carlos Romero García](https://github.com/Cromgar939)   :octocat:     
  * :bust_in_silhouette:  [Manuel Martín Rodríguez](https://github.com/ManuelMR2114)     :octocat:
-
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
-
------ 
 
 <br>
 
@@ -60,45 +45,58 @@ Miembros y nombre del equipo:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
+Queremos hacer un restaurante de comida japonesa inspirado en el anime Inazuma Eleven, utilizando un sistema de tubos neumáticos para la entrega de comida y ambientando el local y los platos en la serie. 
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+Hemos investigado la página de Sibuya para basarnos en su diseño. Nuestros objetivos se basan en satisfacer todas las necesidades del usuario de forma que no le resulte complicado entender la interfaz. Para ello vamos a investigar la experiencia de los usuarios relizando pedidos online y sobre el sistema de tubos neumáticos.
+
+Para la investigación buscaremos usuarios mayores de edad y les pediremos que realicen tareas simples como realizar una reserva, realizar un pedido y pedir dentro del restaurante mediante el escaneo de un código QR.
 
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
+[Competitive Analysis](P1/CompetitorAnalysis.png)
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+Tras comparar la página web de Sibuya con la nuestra, la de Sibuya ofrece una experiencia tradicional mientras que la nuestra tiene un flujo guiado y una información concisa de forma que reduce la carga para el cliente. Queremos que todas las opciones a las que el usuario acceda recurrentemente (carta, reserva, pedido) estén en la página principal y sea fácilmente reconocibles, al contrario que la carta en Sibuya que se encuentra en un menú lateral un poco oculto.
 
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+
+
+[Persona 1: Evaristo González](P1/Persona1.png). Es un joven que maneja a la perfección internet y fan del anime que busca una experiencia orientada en sus serires favoritas para compartir con amigos.
+
+[Persona 2: Alejandra Ortega](P1/Persona2.png). Una madre con poco manejo digital y su prioridad es la eficiencia y la claridad para que todo salga correctamente.
 
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+Para el [User Journey Map de Evaristo](P1/UserJourneyMapPersona1.jpg) hemos decidio poner la situación de una reserva, algo que es muy común en restaurantes.
+
+Para el [User Journey Map de Alejandra](P1/UserJourneyMapPersona2.jpg) hemos decidido poner la situación de un pedido, cosa que es bastante común hoy en día.
 
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+[Usability review](P1/Usability-review.pdf)
+
+URL: https://sibuyaurbansushibar.com/restaurante-japones-granada/
+
+Valoración: 89/100 -> Good
+
+Puntos fuertes: colores impactantes, iconos reconocibles e instrucciones claras.
+
+Puntos débiles: errores, menú lateral y función de búsqueda.
 
 <br>
 
