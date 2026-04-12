@@ -166,6 +166,11 @@ Hemos diseñado las siguientes pantallas de la interfaz: Pagina Principal, Carta
 
 ![Contacto Móvil](ContactoMovil.png)
 
+## Valoración de la práctica
+La práctica nos ha gustado bastante, sobre todo la parte de realizar los wireframes en Figma, donde tuvimos que adaptar cada pantalla a los distintos dispositivos y tener en cuenta la aparición del teclado en móvil y tablet. La Malla Receptora de Información y el Mapa de Empatía nos ayudaron a organizar mejor todo lo que habíamos detectado en la P1, llegando a ponernos en los zapatos de las personas creadas, y trasladarlo al diseño del proyecto. También cabe destacar el Point of View, que fue clave porque al partir con los problemas reales de Sibuya, sabíamos exactamente qué queríamos mejorar en nuestro proyecto.
+
+Con toda esa información, nos fue muy asequible crear la página web del proyecto y modelar la navegación en ella, quedando muy bien organizada y muy clara para el uso del cliente. En general estamos contentos con el resultado.
+
 
 
 
