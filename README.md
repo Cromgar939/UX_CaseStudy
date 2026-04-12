@@ -102,56 +102,68 @@ Puntos débiles: errores, menú lateral y función de búsqueda.
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
-
+A partir del análisis de Sibuya en la P1, elaboramos una [Malla Receptora de Información](P2/feedbackCaptureGrid.png) y un [Mapa de Empatía](P2/EmpathyCustomerMapShibuya.png). Con esto, nos ponemos en los zapatos de nuestros clientes y sacamos que Shibuya presenta un diseño profesional, buena combinación de colores y una buena explicación de todo el contenido pero presenta una serie de desventajas: una carta cuya posición en la página web no es muy buena y sin precios visibles, buscador sin tolerancia a errores ortográficos, un límite de personas al realizar una reserva bastante reducido y datos que introducimos en la página no se quedan guardados en caso de error.
 
  Interesante | Críticas     
 | ------------- | -------
   Preguntas | Nuevas ideas
   
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
-
+Por lo tanto, Los usuarios abandonan el proceso de reserva o pedido por las desventajas comentadas antes. Nuestra propuesta consiste en crear una página web para Inazuma Ramen de forma que sea lo más sencilla de utilizar para el usuario. Nos centraremos en que toda la infomarción importante se muestre en todo momento y que las instrucciones para reservar y para realizar pedidos sean lo más claras posibles. Nos basaremos sobre todo en el número de reservas y de pedidos para comprobar si vamos por buen camino.
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
-
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
-
-
+![Scope Canvas](P2/ScopeCanvas.png)
 
 ### 2.b User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
 -----
+Hemos modelado dos operaciones principales que puede realizar el cliente:
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+**Primer Task Flow** — el usuario selecciona fecha, hora y número de personas. 
+Si la reserva es posible se confirma; si no, se muestra un mensaje de error 
+con el motivo.
+
+![Flowmap Reserva](P2/FlowmapReserva.png)
+
+**Segundo Task Flow** — el usuario introduce sus datos, recorre la carta añadiendo 
+platos y finaliza seleccionando el método de pago. Si elige tarjeta, se validan 
+los datos introducidos.
+
+![Flowmap Pedido](P2/FlowmapPedido.png)
 
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
-
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
-
-Término | Significado     
+Con todo lo explicado en los puntos anteriores hemos creado nuestro [Sitemap](SiteMap.png).
+# Labelling
+Término | Significado
 | ------------- | -------
-  Login  | acceder a plataforma
-
+Pagina Principal | Página de inicio de Inazuma Ramen con acceso a las distintas secciones
+Carta | Página para consular la carta
+Pedido | Sección para realizar un pedido
+Carta-Pedido| Página para consular la carta cuando el cliente vaya a realizar un pedido. 
+Delanteros | Sección de la carta donde se encuentran los entrantes
+Mediocentros | Sección de la carta donde se encuentran los platos principales
+Defensas | Sección de la carta donde se encuentran los postres
+Porteros | Sección de la carta donde se encuentran las bebidas
+Pagos | Página para llevar a cabo el pago del pedido
+Reserva | Página para realizar una reserva
+Contacto | Sección donde se encuentra el correo y numero de teléfono de la empresa
 
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
+Los wireframes han sido diseñados con **Figma** en dos versiones:
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+- [Wireframe fijo](P2/Wireframefijo.fig) con posiciones fijas absolutas y elementos en jerarquía de frames
+- [Wireframe dinámico](P2/Wireframedinámico.fig) con un GRID LAYOUT con ajustes de diseño RESPONSIVE (Ordenador, Tablet y móvil)
+
+Se han diseñado 6 pantallas principales: Página Principal, Carta, Reservas, Pedido, Pago y Contacto, teniendo en cuenta la aparición del teclado en tablet y móvil y el uso de la tablet en vertical y horizontal.
 
 <br>
 
