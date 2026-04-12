@@ -139,7 +139,10 @@ los datos introducidos.
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
-Con todo lo explicado en los puntos anteriores hemos creado nuestro [Sitemap](SiteMap.png).
+Con todo lo explicado en los puntos anteriores hemos creado nuestro sitemap
+
+![Sitemap](P2/SiteMap.png)
+
 # Labelling
 Término | Significado
 | ------------- | -------
