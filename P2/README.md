@@ -85,7 +85,7 @@ Hemos modelado un par de acciones que pueden realizar los clientes, siguiendo pa
 
 El [Primer Task Flow](FlowmapReserva.png) sigue los pasos de un cliente que quiere realizar una reserva desde nuestra página web. Una vez dentro de la página el usuario seleccionará la fecha, hora y número de personas de la reserva. Si es posible realizar la reserva se mostrará un mensaje de éxito, en caso contrario se mostrará un mensaje de error con el motivo para que el usuario rectifique.
 
-En el [Segundo Task Flow](FlowmapPedido.png), el usuario quiere realizar un pedido, para ello entra en la sección de pedidos donde introducirá sus datos y comprobaremos si son válidos. Tras esto recorrerá la carta añadiendo los platos que quiere pedir y, una vez finalizado, en la página depagos seleccionará el método que prefiera. Si selecciona el pago con tarjeta se comprobará que los datos introducidos son correctos.
+En el [Segundo Task Flow](FlowmapPedido.png), el usuario quiere realizar un pedido, para ello entra en la sección de pedidos donde introducirá sus datos y comprobaremos si son válidos. Tras esto recorrerá la carta añadiendo los platos que quiere pedir y, una vez finalizado, en la página de pagos seleccionará el método que prefiera. Si selecciona el pago con tarjeta se comprobará que los datos introducidos son correctos.
 
 # Arquitectura de información
 
