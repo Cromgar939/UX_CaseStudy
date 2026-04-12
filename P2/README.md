@@ -25,10 +25,7 @@
 ### Prototipo Lo-FI Wireframe 
 
 
-### Conclusiones  
-(incluye valoración de esta etapa)
-
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+### Valoración de la Práctica
 
 # Ideación
 
