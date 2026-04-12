@@ -113,6 +113,10 @@ Reserva | Página para realizar una reserva
 Contacto | Sección donde se encuentra el correo y numero de teléfono de la empresa
 
 ## Prototipo Lo-FI Wireframe 
-Hemos diseñado las siguientes pantallas de la interfaz: Pagina Principal, Carta, Reservas, Pago, Contacto y Pedido. Lo hemos hecho tanto con posiciones fijas absolutas y elementos en jerarquía de frames como con un GRID LAYOUT con ajustes de diseño RESPONSIVE. Referente al diseño Responsive, hemos realizado las versiones en ordenador, tablet y móvil. Teniendo en cuenta la forma de utilización de la tablet tanto en vertical como horizontal y la aparición del teclado en tablet y móvil a la hora de rellenar los campos pertinentes.
+Hemos diseñado las siguientes pantallas de la interfaz: Pagina Principal, Carta, Reservas, Pago, Contacto y Pedido. Lo hemos hecho tanto con posiciones fijas absolutas y elementos en jerarquía de frames (Wireframe fijos) como con un GRID LAYOUT con ajustes de diseño RESPONSIVE (Wireframe dinámico). Referente al diseño Responsive, hemos realizado las versiones en ordenador, tablet y móvil. Teniendo en cuenta la forma de utilización de la tablet tanto en vertical como horizontal y la aparición del teclado en tablet y móvil a la hora de rellenar los campos pertinentes.
+
+#Wireframe dinámico
+Pagina Principal
+
 
 
