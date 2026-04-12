@@ -113,10 +113,63 @@ Reserva | Página para realizar una reserva
 Contacto | Sección donde se encuentra el correo y numero de teléfono de la empresa
 
 ## Prototipo Lo-FI Wireframe 
-Hemos diseñado las siguientes pantallas de la interfaz: Pagina Principal, Carta, Reservas, Pago, Contacto y Pedido. Lo hemos hecho tanto con posiciones fijas absolutas y elementos en jerarquía de frames [Wireframe fijos](Wireframefijo.fig) como con un GRID LAYOUT con ajustes de diseño RESPONSIVE [Wireframe dinámico](Wireframedinámico.fig). Referente al diseño Responsive, hemos realizado las versiones en ordenador, tablet y móvil. Teniendo en cuenta la forma de utilización de la tablet tanto en vertical como horizontal y la aparición del teclado en tablet y móvil a la hora de rellenar los campos pertinentes.
+Hemos diseñado las siguientes pantallas de la interfaz: Pagina Principal, Carta, Reservas, Pago, Contacto y Pedido. Lo hemos hecho tanto con posiciones fijas absolutas y elementos en jerarquía de frames [Wireframe fijos](Wireframefijo.fig)  como con un GRID LAYOUT con ajustes de diseño RESPONSIVE [Wireframe dinámico](Wireframedinámico.fig) . Referente al diseño Responsive, hemos realizado las versiones en ordenador, tablet y móvil. Teniendo en cuenta la forma de utilización de la tablet tanto en vertical como horizontal y la aparición del teclado en tablet y móvil a la hora de rellenar los campos.
 
-#Wireframe dinámico
-Pagina Principal
+### Wireframe dinámico
+### Pagina Principal
+
+![Página Principal Ordenador](PáginaPrincipalOrdenador.png)
+
+![Página Principal Tablet](PáginaPrincipalTabletSin.png)
+
+![Página Principal Móvil](PáginaPrincipalMovil.png)
+
+### Carta
+ ![Carta Ordenador](CartaOrdenador.png)
+ 
+ ![Carta Tablet Sin](CartaTabletSin.png)
+ 
+ ![Carta Tablet Con](CartaTabletCon.png)
+ 
+ ![Carta Móvil](CartaMovil.png)
+
+ ### Reservas
+ 
+![Reservas Ordenador](ReservasOrdenador.png)
+
+![Reservas Tablet](ReservasTablet.png)
+
+![Reservas Móvil](ReservasMovil.png)
+
+### Pedido
+![Pedido Ordenador](PedidoOrdenador.png)
+
+![Pedido Tablet](PedidoTablet.png)
+
+![Pedido Tablet Con](PedidoTabletCon.png)
+
+![Pedido Móvil](PedidoMovil.png)
+
+### Pago
+![Pago Ordenador](PagoOrdenador.png)
+
+![Pago Tablet Sin](PagoTabletSin.png)
+
+![Pago Tablet Con](PagoTabletCon.png)
+
+![Pago Móvil](PagoMovil.png)
+
+### Contacto
+![Contacto Ordenador](ContactoOrdenador.png)
+
+![Contacto Tablet](ContactoTablet.png)
+
+![Contacto Móvil](ContactoMovil.png)
+
+
+
+
+
 
 
 
