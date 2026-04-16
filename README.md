@@ -25,8 +25,8 @@ Descripción: Restaurante de comida japonesa inspirado en el anime Inazuma Eleve
 
 Logotipo: 
 
+<img width="128" height="128" alt="LogoInazumaRamen" src="https://github.com/user-attachments/assets/e4a91186-fb1c-4260-966d-36cf94cc4373" />
 
-<img width="128" height="128" alt="LogoDIU" src="https://github.com/user-attachments/assets/f45ac993-bbb3-400c-a07c-c5d2cc5363e9" />
 
 
 Miembros y nombre del equipo:
