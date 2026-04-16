@@ -48,7 +48,7 @@ Cuantitativa:
 - Consultar el horario del restaurante
 
 # 1.b Competitive Analysis
-[Tabla Competitive Analysis](CompetitorAnalysis.png)
+[Tabla Competitive Analysis](CompetitiveAnalysis.png)
 
 Hemos hecho el competitive analysis de nuestro proyecto con Sibuya
 
