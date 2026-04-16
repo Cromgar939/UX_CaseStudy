@@ -14,6 +14,7 @@ Nuestro proyecto se centra en un restaurante de temática japonesa inspirado en 
 El objetivo principal de la investigación es, además de validar la usabilidad de la interfaz que utiliza lenguaje técnico de fútbol, asegurar que el sistema de pedido y entrega por tubos neumáticos sea comprendido intuitivamente por el cliente. Buscamos maximizar las reservas de mesas y la venta de platos especiales de manera visual que impacte tanto a los seguidores de la serie como a un público joven interesado.
 
 ## Antecedentes y objetivos
+Somos un grupo de diseñadores fanáticos de Inazuma Eleven sin una experiencia previa en la gestión de hostelería con alta tecnología y venimos de estudiar la carrera de Ingeniería Informática. 
 Estamos investigando la página web del restaurante Sibuya para poder encontrar sus virtudes y defectos para basarnos en el diseño de nuestra página.
 
 Objetivos:
@@ -35,9 +36,14 @@ Cuantitativa:
 - Número de pedidos online realizados al mes
 - Dinero gastado en pedidos
 
+## Preguntas
+- ¿ Cómo podemos mejorar la experiencia de usuario a la persona que no sabe de la existencia de la serie ? 
+- ¿ Cuales son los puntos claves para que el usuario repita la experiencia ? 
+- ¿ Se siente cómodo el usuario al utilizar el sistema de tubos neumáticos para realizar el pedido ?
+
 ## Perfil de los participantes
 - Edad: entre 18 y 60 años
--  Competencias: Familiarización básica con compras en Internet
+- Competencias: Familiarización básica con compras en Internet
 
 ## Guión y tareas
 - Consultar la carta
