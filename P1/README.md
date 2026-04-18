@@ -8,44 +8,65 @@
 
 
 # 1.a User Reseach Plan
+
 ## Briefing
+
 Nuestro proyecto se centra en un restaurante de temática japonesa inspirado en el anime Inazuma Eleven que utiliza un sistema de servicio mediante tubos neumáticos. Dentro del restaurante incluiremos decoración como las equipaciones de la serie y los platos de la carta tendrán nombres basados en las técnicas de los personajes. Aunque el equipo no cuenta con experiencia previa en la gestión de hostelería de alta tecnología, estamos familiarizados con la cultura del anime y el coleccionismo, lo que nos permite tener una perspectiva de fan.
 
 El objetivo principal de la investigación es, además de validar la usabilidad de la interfaz que utiliza lenguaje técnico de fútbol, asegurar que el sistema de pedido y entrega por tubos neumáticos sea comprendido intuitivamente por el cliente. Buscamos maximizar las reservas de mesas y la venta de platos especiales de manera visual que impacte tanto a los seguidores de la serie como a un público joven interesado.
 
-## Antecedentes y objetivos
+## Antecedentes
+
 Somos un grupo de diseñadores fanáticos de Inazuma Eleven sin una experiencia previa en la gestión de hostelería con alta tecnología y venimos de estudiar la carrera de Ingeniería Informática. 
 Estamos investigando la página web del restaurante Sibuya para poder encontrar sus virtudes y defectos para basarnos en el diseño de nuestra página.
-
-Objetivos:
-- Los distintos apartados (carta, reserva, pedidos) deben de ser fácilmente reconocibles
-- Permitir pedir un plato desde la carta
-- Cada usuario debe acceder a la pestaña deseada en menos de 5 segundos tras acceder a la página inicial.
-
 Como diseñadores nunca hemos trabajado en algo parecido y como observadores hemos oído a varias personas quejarse sobre cómo funcionan algunas de estas páginas.
+
+## Preguntas
+
+- ¿ Podemos mejorar la experiencia de usuario a la persona que no sabe de la existencia de la serie ? 
+- ¿ El contenido temático refuerza la experiencia para fans de Inazuma Eleven ?
+- ¿ Se siente cómodo el usuario al utilizar el sistema de tubos neumáticos para realizar el pedido ?
+- ¿ El usuario identifica y completa las acciones principales rápidamente y de forma sencilla?
+
+## Objetivos
+
+- Evaluar si los usuarios identifican y navegan entre los apartados principales con facilidad.
+- Verificar si el usuario completa un pedido mediante el sistema de tubos neumáticos.
+- Evaluar si los usuarios no seguidores de la serie comprenden la carta con la información disponible.
+- Verificar si los formularios y mensajes de error guían al usuario a realizar las acciones de forma correcta.
+- Determinar si la interfaz basada en Inazuma Eleven atrae a sus seguidores.
 
 ## Metodología
 
-Cualitativa:
-- Experiencia del usuario con pedidos online
-- Opiniones sobre los pedidos online
-- Platos preferidos del menú
--  Experiencias del usuario con los tubos
-   
-Cuantitativa:
-- Número de pedidos online realizados al mes
-- Dinero gastado en pedidos
+Realizaremos entrevistas a varios usuarios y les pediremos que usen la página y que intenten realizar por ellos mismos las distintas acciones:
 
-## Preguntas
-- ¿ Cómo podemos mejorar la experiencia de usuario a la persona que no sabe de la existencia de la serie ? 
-- ¿ Cuales son los puntos claves para que el usuario repita la experiencia ? 
-- ¿ Se siente cómodo el usuario al utilizar el sistema de tubos neumáticos para realizar el pedido ?
+Cualitativos:
+- Opinión general de la experiencia
+- Entendimiento de los platos
+- Experiencia del usuario con los tubos neumáticos
+   
+Cuantitativos:
+- Puntuación dada a la interfaz por los seguidores de la serie
+- Media de tiempo tardado por el usuario en realizar cada acción
+- Número de usuarios que volverían a usar la página
 
 ## Perfil de los participantes
-- Edad: entre 18 y 60 años
-- Competencias: Familiarización básica con compras en Internet
+
+Tenemos dos principales grupos de usuarios:
+- Fans de Inazuma Eleven:
+  - Edad: entre 10 y 30 años
+  - Conocimientos de la serie: nivel medio-alto
+  - Motivación: buscan una experiencia inmersiva y tematizada, con buena usabilidad
+  - Competencia digital: nivel básico-medio, suficiente para pedir comida online
+
+- Usuarios no fans:
+  - Edad: 18 a 45 años
+  - Sin conocimiento de la serie ni del anime en general
+  - Motivación: interés por la experiencia gastronómica y la tecnología de los tubos
+  - Competencia digital: nivel básico-medio, suficiente para pedir comida online
 
 ## Guión y tareas
+
 - Consultar la carta
 - Escanear QR mesa
 - Realizar una reserva
@@ -54,6 +75,7 @@ Cuantitativa:
 - Consultar el horario del restaurante
 
 # 1.b Competitive Analysis
+
 [Tabla Competitive Analysis](CompetitiveAnalysis.png)
 
 Hemos hecho el competitive analysis de nuestro proyecto con Sibuya
@@ -74,6 +96,7 @@ Persona 2: Alejandra Ortega. Una madre con poco manejo digital y su  prioridad e
    - [Persona 2](Persona2.png)
 
 # 1.d User Journey Map
+
 Se han seleccionado estas dos experiencias porque representan los escenarios más habituales en los restaurantes y el servicio de pedidos online.
 
 - Reserva Grupal (Evaristo González): Esta experiencia es muy común entre el público joven y universitario. Refleja la frustración típica cuando un usuario, tras entusiasmarse con la estética de un local, encuentra problemas como el límite de personas en la reserva (máximo 6 personas). Esto suele derivar en la pérdida de clientes.
@@ -83,6 +106,7 @@ Se han seleccionado estas dos experiencias porque representan los escenarios má
    - [User journey map: Pedido a domicilio](UserJourneyMapPersona2.jpg)
   
 # 1.e Usability Review
+
 [Usability review](Usability-review.pdf)
 
 URL: https://sibuyaurbansushibar.com/restaurante-japones-granada/
@@ -94,6 +118,7 @@ Puntos fuertes: el diseño de las páginas tienen una buena combinación de colo
 Puntos débiles: el manejo de errores es algo pobre. El menú lateral está un poco oculto. La función de búsqueda de la carta puede mejorarse mucho.
 
 # 1.f Briefing
+
 El sitio web de Sibuya está diseñado de forma que cualquier persona sea capaz de utilizarlo. Podemos destacar el buen uso de los colores, que le da identidad a la página y destaca las posibles opciones del usuario. Su página principal está organizada de forma que al principio de ella aparecen las distintas opciones con las que puede interactuar el usuario y conforme bajas van apareciendo distintas imágenes que muestran lo que te encuentras dentro del restaurante.
 
 Las instrucciones son claras y concisas, algunas acompañadas de imágenes, de forma que el usuario no se pierda a la hora de hacer un pedido o una reserva.
@@ -101,4 +126,5 @@ Las instrucciones son claras y concisas, algunas acompañadas de imágenes, de f
 El principal problema que podemos apreciar es la carta. Los colores cambian por completo, pasamos de una página oscura a una clara, las categorías no siguen ningún criterio de ordenación y su función de búsqueda es bastante pobre. Tenemos que centrarnos en estos aspectos para poder crear nuestra interfaz de forma que nuestra carta sea más amigable con el cliente.
 
 # 1.g Valoración de la práctica
+
 La práctica nos ha gustado. Al principio fue complicado pensar en la idea y hacer el User Research Plan, pero el resto de la práctica fue sencilla. Fue una tarea entretenida realizar el Competitive Analisis y el User Research con Sibuya y tener una idea de cómo vamos a enfocar nuestra página. También disfrutamos creando a las personas y sus Journey Maps inventando un escenario e ir siguiendo sus mismos pasos para ver cómo reaccionarían.
