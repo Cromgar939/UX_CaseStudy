@@ -172,38 +172,33 @@ Se han diseñado 6 pantallas principales: Página Principal, Carta, Reservas, Pe
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 -----
+Definimos el siguiente moodboard ![Moodboard](/P3/Moodboard.png). 
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
 
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+Hemos diseñado este ![LandingPage](/P3/LandingPage.png)
 
+Hemos utilizado como herramienta de apoyo FIGMA MAKE.
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
 ----
-
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
-
+Hemos definido el comportamiento y el diseño de los distintos componentes para nuestra página. Definiendo botones, tipográfia, Etiqueta, Layout, Imagenes..etc.
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
+A partir del DESIGN SYSTEM descrito en el punto anterior, hemos creado nuestra página web con una navegación funcional. 
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+[Layout Hi-Fi](https://www.figma.com/proto/ljIgCD8RiohaodkAQ13woq/P%C3%A1gina?node-id=13-220&t=cEnkApVzRIxNLJwP-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=13%3A220)
 
 
 <br>
