@@ -64,7 +64,7 @@ Hemos utilizado como herramienta de apoyo FIGMA MAKE. A través de un Wireframe 
 ## LAYOUT HI-FI
 A partir del Desyng System descrito en el punto anterior, hemos creado nuestra página web con una navegación funcional. 
 
-![Layout Hi-Fi](https://www.figma.com/proto/ljIgCD8RiohaodkAQ13woq/P%C3%A1gina?node-id=13-220&t=cEnkApVzRIxNLJwP-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=13%3A220)
+[Layout Hi-Fi](https://www.figma.com/proto/ljIgCD8RiohaodkAQ13woq/P%C3%A1gina?node-id=13-220&t=cEnkApVzRIxNLJwP-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=13%3A220)
 
 
 ## BRIEFING
