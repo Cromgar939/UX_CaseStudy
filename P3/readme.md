@@ -68,3 +68,4 @@ A partir del Desyng System descrito en el punto anterior, hemos creado nuestra p
 
 
 ## BRIEFING
+Es la práctica que más nos ha gustado hasta el momento. Hemos comenzado definiendo nuestro moodboard donde lo que más nos costó es encontrar imágenes que representáran lo que queríamos transmitir. Seguidamente, realizamos el Landing Page gracias a Figma Make, ceando una página principal base que representara nuestras ideas orientadas a Inazuma Eleven. Una vez hecho esto, definimos unos guidelines. Y después, hicimos los componentes básicos a partir de dichas indicaciones (Guidelines). Para finalizar, construimos nuestra página usando los componentes (átomos, móleculas, órganimos y patrones), destacando el scroll en la página de carta y  unos mensajes a modo de pop up al realizar la reserva o el pago.
