@@ -278,16 +278,9 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ### 5.a Exportación a HTML/React
 ![Método UX](img/usabilityReview.png) 
 ----
+Usando la herramienta Figma Make le hemos ido pasando prompts a la IA para que haga nuestra página funcional.
 
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-### 5.b Documentación con Storybook
-![Método UX](img/usabilityReview.png)
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
+[Nuestra Página](https://slide-act-38461346.figma.site/)
 
 <br>
 
