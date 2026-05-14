@@ -25,9 +25,9 @@ Descripción: Restaurante de comida japonesa inspirado en el anime Inazuma Eleve
 
 Logotipo: 
 
-<img width="128" height="128" alt="LogoInazumaRamen" src="https://github.com/user-attachments/assets/e4a91186-fb1c-4260-966d-36cf94cc4373" />
+<img src="P3/logo.png" width="256">
 
-
+Pagina: [Inazuma Ramen](https://slide-act-38461346.figma.site/)
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  [Carlos Romero García](https://github.com/Cromgar939)   :octocat:     
