@@ -153,6 +153,21 @@ Hemos asignado los siguientes puntos de interés en la página. Básicamente se 
 #### Resultados P08 prueba 2
 <img src="Heatmaps/P08-contacto.png">
 
+#### Resultados P09 prueba 1
+<img src="Heatmaps/P09-reserva-1.jpg">
+<img src="Heatmaps/P09-reserva-2.jpg">
+
+#### Resultados P09 prueba 2
+<img src="Heatmaps/P09-contacto.jpg">
+
+
+#### Resultados P10 prueba 1
+<img src="Heatmaps/P10-reserva-1.jpg">
+<img src="Heatmaps/P10-reserva-2.jpg">
+
+#### Resultados P10 prueba 2
+<img src="Heatmaps/P10-contacto.jpg">
+
 #### Conclusiones
 Podemos ver que se suelen mirar todos los puntos de interés que hemos definido. Puede que en algunos heatmaps no se observa bien que los participantes miren al contacto, pero esto es un error de GazeMapping con la colocación de los puntos ya que supervisando a los participantes vimos como el punto rojo se pasaba por encima.
 
