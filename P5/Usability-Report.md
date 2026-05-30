@@ -123,10 +123,12 @@ El segundo punto ha sido que ciertos usuarios han encontrado el sitio web un poc
 
 ## 4. Análisis de Eye Tracking (Datos Biométricos)
 
+### POI
+Hemos asignado los siguientes puntos de interés en la página. Básicamente se centran en los botones con acciones principales e información importante.
+<img src="POI/Goiko-POI-1.png">
+<img src="POI/Goiko-POI-2.png">
+
 ### Heatmaps
-
-#### POI
-
 #### Resultados P06 prueba 1
 <img src="Heatmaps/P06-reserva-1.png">
 <img src="Heatmaps/P06-reserva-2.png">
@@ -148,7 +150,9 @@ El segundo punto ha sido que ciertos usuarios han encontrado el sitio web un poc
 #### Resultados P08 prueba 2
 <img src="Heatmaps/P08-contacto.png">
 
-- **Heatmaps (Mapas de calor):** Incluye las capturas de GazeMapping. Comenta si los usuarios miraron los **POI** (Puntos de Interés) definidos.
+#### Conclusiones
+Podemos ver que se suelen mirar todos los puntos de interés que hemos definido. Puede que en algunos heatmaps no se observa bien que los participantes miren al contacto, pero esto es un error de GazeMapping con la colocación de los puntos ya que supervisando a los participantes vimos como el punto rojo se pasaba por encima.
+
 ### Zonas de silencio
 El header es prácticamente ignorado, sobre todo el botón de reservar mesa, debido a que no destaca respecto del fondo de la página y los enlaces son de colores muy
 claros, con una letra pequeña, haciendo que no destaquen.
