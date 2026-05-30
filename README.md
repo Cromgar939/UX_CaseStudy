@@ -209,55 +209,72 @@ A partir del DESIGN SYSTEM descrito en el punto anterior, hemos creado nuestra p
 ![Método UX](img/usability-testing.png)
 -----
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
+Nos ha tocado como caso B la página web Goiko Experience del grupo DIU3-QBB cuyo enlace al github es: https://github.com/DIU3-QBB/UX_CaseStudy 
+Los 5 primeros participantes son del Caso A y el resto del caso B
 
-
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
-
+| ID Participante | Edad | Género | Competencia digital | Gafas/Lentillas | Iluminación | Resolución | Conocimiento previo | Rol |
+|---|---|---|---|---|---|---|---|---|
+| P01 | 21 | Hombre | Alta | Si | Natural | 1920x1080 | Medio | Estudiante |
+| P02 | 20 | Hombre | Alta | No | Natural | 1920x1080 | Medio | Estudiante |
+| P03 | 20 | Hombre | Alta | Si | Natural | 1920x1080 | Medio | Estudiante |
+| P04 | 20 | Mujer  | Media | No | Natural | 1920x1080 | Ninguno | Estudiante |
+| P05 | 16 | Hombre| Alta | Si | Natural | 1920x1080 |  Ninguno  |  Estudiante  |
+| P06 | 19 | Mujer | Alta | No | Natural | 1920x1080 | Ninguno | Estudiante |
+| P07 | 20 | Hombre | Alta | No | Artificial | 1920x1080 | Ninguno | Estudiante |
+| P08 | 21 | Mujer | Media | Si | Artificial | 1920x1080 | Ninguno | Estudiante |
+| P09 | 53 | Mujer | Baja | Si | Natural | 1920x1080 | Ninguno | Enfermera |
+| P10 | 14 | Hombre | Alta | No | Natural | 1920x1080 | Ninguno | Estudiante |
 
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
 -----
-
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
-
+Para evaluar ambas páginas y poder compararlas hemos hecho dos pruebas con cada participante. La primera consitía en simular la realización de una reserva, y la
+segunda consistía en buscar el contacto de la página. Durante estas pruebas usamos GazeMapping para realizar un seguimiento de su mirada y comprobar si miraban los
+puntos de interés asignados, además les medimos el tiempo que tardaban en realizar cada prueba. Por último hicieron el cuestionario SUS tras finalizar cada prueba.
 
 
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
 ----
+Para la realización de la reserva:
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+Podemos observar que tanto los tiempos tardados en ambas páginas como las puntuaciones dadas a cada pregunta son similares. De media obtenemos las siguientes puntuaciones:
 
+- Inazuma Ramen: 98,5
+- Goiko Experience: 93,5
+- 
+Con estos resultados podemos ver cómo prefieren realizar una reserva usando nuestro sitio web más que el otro.
+
+Para buscar el contacto de la página: 
+
+Podemos observar que aquí varían mucho más las puntuaciones, sobre todo el participante P09 tuvo más complicaciones para encontrar el contacto. De media obtenemos las siguientes puntuaciones:
+
+- Inazuma Ramen: 96
+- Goiko Experience: 75
+
+Con estos resultados podemos ver cómo es más fácil de encontrar nuestro contacto que el otro.
 
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
 -----
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+Las puntuaciones finales son las siguientes:
+
+- Inazuma Ramen: 97,25
+- Goiko Experience: 84,25
+
+Con estas pruebas queda claro que Inazuma Ramen (caso A) es más fácil de usar y entender para todos los usuarios que Goiko Experience (Caso B), sobre todo por la simplicidad de la página mostrando toda la información importante y organizada de forma que el usuario no tiene que bajar en la página para encontrarla.
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
 ----
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+Establecemos primero las pruebas que queremos realizar (hacer una reserva y consular el contacto de una página) y establecemos una serie de POI (Puntos de interés). A continuación, empleamos la herramienta Gazemapping para el Eye Tracking, calibrándola y dejamos que ella se encargue de recoger los datos de visión y clicks del usuario mientras realiza las pruebas que hemos establecido. Se guarda dicha información y se guarda el mapa de calor generado por el usuario, dándonos así la información de que se suele fijar más la gente o que menos a la hora de navegar por la página web y donde suelen hacer click. Y todo esto, lo comparamos con nuestros POI (Puntos de interés) establecidos
 
+El reclutamiento ha sido a gente de nuestro entorno (amigos, compañeros, familiares), con distintos niveles de competencia digital de forma que podemos evaluar
+correctamente la facilidad de uso de las páginas.
 
 ![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
-
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
-
 
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
@@ -268,7 +285,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 >>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
 
-
+Para finalizar la práctica hemos plasmado todos los datos recogidos en [Usability-Report](Usability-Report.md). 
 
 <br>
 
