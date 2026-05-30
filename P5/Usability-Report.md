@@ -41,7 +41,7 @@ Para las pruebas hemos reclutado a los siguientes participantes:
 | P01 | 21 | Hombre | Alta | Si | Natural | 1920x1080 | Medio | Estudiante |
 | P02 | 20 | Hombre | Alta | No | Natural | 1920x1080 | Medio | Estudiante |
 | P03 | 20 | Hombre | Alta | Si | Natural | 1920x1080 | Medio | Estudiante |
-| P04 | 20 | Mujer | Media | No | Natural | 1920x1080 | NInguno | Estudiante |
+| P04 | 20 | Mujer | Media | No | Natural | 1920x1080 | Ninguno | Estudiante |
 | P05 | | | | | | | | |
 | P06 | 19 | Mujer | Alta | No | Natural | 1920x1080 | Ninguno | Estudiante |
 | P07 | 20 | Hombre | Alta | No | Artificial | 1920x1080 | Ninguno | Estudiante |
@@ -94,6 +94,8 @@ Y hemos obtenido los siguientes resultados:
 
 El diseño A ha tenido una media de 98,5 y el diseño B una media de 93,5.
 
+<img src="grafica-1.png">
+
 #### Test consultar el contacto
 
 | Id participante | Tiempo empleado | P1 | P2 | P3 | P4 | P5 | P6 | P7 | P8 | P9 | P10 | Resultado |
@@ -113,13 +115,14 @@ El diseño A ha tenido una media de 98,5 y el diseño B una media de 93,5.
 
 El diseño A ha tenido una media de 96 y el diseño B una media de 75.
 
+<img src="grafica-2.png">
+
 ### Desglose por ítems
 
 El punto más perjudicial es que los usuarios encontraron la página demasiado larga, sobre todo para encontrar la información del contacto.
 El segundo punto ha sido que ciertos usuarios han encontrado el sitio web un poco complejo.
 
 ### Valoración numérica del SUS - 84,25
-
 
 ## 4. Análisis de Eye Tracking (Datos Biométricos)
 
