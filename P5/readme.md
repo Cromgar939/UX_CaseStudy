@@ -41,10 +41,30 @@ Hemos asignado los siguientes POI a la página a evaluar (caso B):
 
 ### Resultados prueba reserva
 
+#### Resultados P01
+
+<img src="Heatmaps/P01-reserva-1.jpg">
+<img src="Heatmaps/P01-reserva-2.jpg">
+
+#### Resultados P02
+
+<img src="Heatmaps/P02-reserva-1.jpg">
+<img src="Heatmaps/P02-reserva-2.jpg">
+
+#### Resultados P03
+
+<img src="Heatmaps/P03-reserva-1.jpg">
+<img src="Heatmaps/P03-reserva-2.jpg">
+
 #### Resultados P04
 
 <img src="Heatmaps/P04-reserva-1.png">
 <img src="Heatmaps/P04-reserva-2.png">
+
+#### Resultados P05
+
+<img src="Heatmaps/P05-reserva-1.jpg">
+<img src="Heatmaps/P05-reserva-2.jpg">
 
 #### Resultados P06
 
@@ -62,12 +82,45 @@ Hemos asignado los siguientes POI a la página a evaluar (caso B):
 <img src="Heatmaps/P08-reserva-1.png">
 <img src="Heatmaps/P08-reserva-2.png">
 
+#### Resultados P09
+
+<img src="Heatmaps/P09-reserva-1.jpg">
+<img src="Heatmaps/P09-reserva-2.jpg">
+
+#### Resultados P10
+
+<img src="Heatmaps/P10-reserva-1.jpg">
+<img src="Heatmaps/P10-reserva-2.jpg">
+
 ### Resultados prueba contacto 
+
+#### Resultados P01
+
+<img src="Heatmaps/P01-contacto-1.jpg">
+<img src="Heatmaps/P01-contacto-2.jpg">
+
+
+#### Resultados P02
+
+<img src="Heatmaps/P02-contacto-1.jpg">
+<img src="Heatmaps/P02-contacto-2.jpg">
+
+
+#### Resultados P03
+
+<img src="Heatmaps/P03-contacto-1.jpg">
+<img src="Heatmaps/P03-contacto-2.jpg">
+
 
 #### Resultados P04
 
 <img src="Heatmaps/P04-contacto-1.png">
 <img src="Heatmaps/P04-contacto-2.png">
+
+#### Resultados P05
+
+<img src="Heatmaps/P05-contacto-1.jpg">
+<img src="Heatmaps/P05-contacto-2.jpg">
 
 #### Resultados P06
 
@@ -80,6 +133,14 @@ Hemos asignado los siguientes POI a la página a evaluar (caso B):
 #### Resultados P08
 
 <img src="Heatmaps/P08-contacto.png">
+
+#### Resultados P09
+
+<img src="Heatmaps/P09-contacto.jpg">
+
+#### Resultados P010
+<img src="Heatmaps/P10-contacto.jpg">
+
 
 ### Conclusiones
 
