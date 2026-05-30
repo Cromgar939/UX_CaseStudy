@@ -7,9 +7,9 @@
 
 30/05/2026
 
-[img Proyecto]
+<img src="logoQBB.png" width="256">
 
-(Enlace al Github)[https://github.com/DIU3-QBB/UX_CaseStudy]
+[Enlace al Github](https://github.com/DIU3-QBB/UX_CaseStudy)
 
 ### Realizado por:  
 
@@ -38,6 +38,11 @@ Para las pruebas hemos reclutado a los siguientes participantes:
 
 | ID Participante | Edad | Género | Competencia digital | Gafas/Lentillas | Iluminación | Resolución | Conocimiento previo | Rol |
 |---|---|---|---|---|---|---|---|---|
+| P01 | 21 | Hombre | Alta | Si | Natural | 1920x1080 | Medio | Estudiante |
+| P02 | 20 | Hombre | Alta | No | Natural | 1920x1080 | Medio | Estudiante |
+| P03 | 20 | Hombre | Alta | Si | Natural | 1920x1080 | Medio | Estudiante |
+| P04 | 20 | Mujer | Media | No | Natural | 1920x1080 | NInguno | Estudiante |
+| P05 | | | | | | | | |
 | P06 | 19 | Mujer | Alta | No | Natural | 1920x1080 | Ninguno | Estudiante |
 | P07 | 20 | Hombre | Alta | No | Artificial | 1920x1080 | Ninguno | Estudiante |
 | P08 | 21 | Mujer | Media | Si | Artificial | 1920x1080 | Ninguno | Estudiante |
@@ -118,7 +123,30 @@ El segundo punto ha sido que ciertos usuarios han encontrado el sitio web un poc
 
 ## 4. Análisis de Eye Tracking (Datos Biométricos)
 
-[Presenta la evidencia visual del comportamiento del usuario]
+### Heatmaps
+
+#### POI
+
+#### Resultados P06 prueba 1
+<img src="Heatmaps/P06-reserva-1.png">
+<img src="Heatmaps/P06-reserva-2.png">
+
+#### Resultados P06 prueba 2
+<img src="Heatmaps/P06-contacto.png">
+
+#### Resultados P07 prueba 1
+<img src="Heatmaps/P07-reserva-1.png">
+<img src="Heatmaps/P07-reserva-2.png">
+
+#### Resultados P07 prueba 2
+<img src="Heatmaps/P07-contacto.png">
+
+#### Resultados P08 prueba 1
+<img src="Heatmaps/P08-reserva-1.png">
+<img src="Heatmaps/P08-reserva-2.png">
+
+#### Resultados P08 prueba 2
+<img src="Heatmaps/P08-contacto.png">
 
 - **Heatmaps (Mapas de calor):** Incluye las capturas de GazeMapping. Comenta si los usuarios miraron los **POI** (Puntos de Interés) definidos.
 ### Zonas de silencio
