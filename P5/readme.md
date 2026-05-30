@@ -8,8 +8,8 @@ Para la evaluación de las páginas webs hemos reclutado a los siguientes partic
 | P01 | 21 | Hombre | Alta | Si | Natural | 1920x1080 | Medio | Estudiante |
 | P02 | 20 | Hombre | Alta | No | Natural | 1920x1080 | Medio | Estudiante |
 | P03 | 20 | Hombre | Alta | Si | Natural | 1920x1080 | Medio | Estudiante |
-| P04 | 20 | Mujer | Media | No | Natural | 1920x1080 | Ninguno | Estudiante |
-| P05 | | | | | | | | |
+| P04 | 20 | Mujer  | Media | No | Natural | 1920x1080 | Ninguno | Estudiante |
+| P05 | 16 | Hombre| Alta | Si | Natural | 1920x1080 |  Ninguno  |  Estudiante  |
 | P06 | 19 | Mujer | Alta | No | Natural | 1920x1080 | Ninguno | Estudiante |
 | P07 | 20 | Hombre | Alta | No | Artificial | 1920x1080 | Ninguno | Estudiante |
 | P08 | 21 | Mujer | Media | Si | Artificial | 1920x1080 | Ninguno | Estudiante |
